@@ -1,0 +1,23 @@
+{
+  "name": "Wordguessconstructer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jmarn94/Wordguessconstructer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jmarn94/Wordguessconstructer/issues"
+  },
+  "homepage": "https://github.com/Jmarn94/Wordguessconstructer#readme",
+  "dependencies": {
+    "requirer": "0.0.4"
+  }
+}
